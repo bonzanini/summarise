@@ -1,17 +1,21 @@
 summarise - Python Text Summarisation module
 ============================================
 
-This module is *experimental*. The API could change at any time. 
+This module is currently **experimental**. 
+
+The API could change at any time. 
+
+Latest version: 0.0.6
 
 
 Installation
 ------------
 
-Install with pip:
+Install with pip::
 
 	pip install summarise
 
-Install from github:
+Install from github::
 
 	git clone https://www.github.com/bonzanini/summarise
 	cd summarise
@@ -20,6 +24,8 @@ Install from github:
 
 Examples
 --------
+
+Code sample::
 
     from summarise import Summariser
 

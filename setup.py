@@ -3,8 +3,8 @@ from setuptools import setup
 long_description = ''
 
 setup(name='summarise',
-      packages=['summarise'],
-      version='0.0.5',
+      packages=['summarise', 'summarise.utils'],
+      version='0.0.6',
       description='Text Summarisation for Python',
       long_description=long_description,
       url='https://www.github.com/bonzanini/summarise',
