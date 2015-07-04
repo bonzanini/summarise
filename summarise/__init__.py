@@ -1,4 +1,4 @@
-__all__ = ['Summariser']
+__all__ = ['Summariser', 'utils']
 
 class Summariser:
 

@@ -5,8 +5,6 @@ This module is currently **experimental**.
 
 The API could change at any time. 
 
-Latest version: 0.0.6
-
 
 Installation
 ------------
