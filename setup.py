@@ -3,7 +3,7 @@ from setuptools import setup
 long_description = ''
 
 setup(name='summarise',
-      packages=['summarise', 'summarise.utils'],
+      packages=['summarise'],
       version='0.0.6',
       description='Text Summarisation for Python',
       long_description=long_description,
