@@ -1,10 +1,10 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 long_description = ''
 
 setup(name='summarise',
-      packages=['summarise'],
-      version='0.0.9',
+      packages=find_packages(),
+      version='0.0.10',
       description='Text Summarisation for Python',
       long_description=long_description,
       url='https://www.github.com/bonzanini/summarise',
