@@ -1,8 +1,9 @@
-venv/
-build/
-dist/
-parts/
-sdist/
-var/
-*.egg-info/
-
+__pycache__
+venv
+build
+dist
+parts
+sdist
+var
+*.egg-info
+.DS_Store
